@@ -1,2 +1,2 @@
 # Crack-the-Code
-Beginners Workshops
+Weekly programmming workshops for beginners
