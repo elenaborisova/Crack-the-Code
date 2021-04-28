@@ -84,8 +84,8 @@ Write a program which calculates the needed financial resources needed for the c
 *Example input and output*  
 |       Input       |      Output       |
 |-------------------|-------------------|
-|550          |The final price is:  3432.11 lv.<br>The discount is: 753.39 lv.         |
-|150                  |The final price is: 936.03 lv.<br>The discount is: 205.47 lv.                  |
+|550          |The final price is:  3432.11 euros.<br>The discount is: 753.39 euros.         |
+|150                  |The final price is: 936.03 euros.<br>The discount is: 205.47 euros.                  |
 
 
 
