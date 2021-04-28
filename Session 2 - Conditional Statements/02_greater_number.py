@@ -3,5 +3,5 @@ b = int(input())
 
 if a > b:
    print(a)
-else:
+elif b > a:
    print(b)
