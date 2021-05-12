@@ -67,7 +67,7 @@ Create a program which reads an age (floating point number) and gender (‘m’ 
 There are different grocery stores in 3 cities that sell several items at different prices in each city:
 
 |city/products   |__coffee__   |__water__   |__beer__   |__sweets__   |__peanuts__ |
-|---|:-:|---|---|---|
+|---|:-:|---|---|---|---|
 |__Madrid__   |0.50   |0.80   |1.20   |1.45   |1.60 |
 |__Paris__   |0.40   |0.70   |1.15   |1.30   |1.50 |
 |__London__   |0.45   |0.70   |1.10   |1.35   |1.55 |
