@@ -30,8 +30,8 @@ Create a program which reads a day of the week (text) from the user. If the day 
 
 
 
-## 3.	Class Animal
-Create a program that prints the class of an animal depending on the animal’s name, inputted by the user. There are 2 classes:  
+## 3.	Type Animal
+Create a program that prints the type of an animal depending on the animal’s name, inputted by the user. There are 2 types:  
 1.	dog -> mammal  
 2.	crocodile, tortoise, snake -> reptile  
 3.	others -> unknown  
