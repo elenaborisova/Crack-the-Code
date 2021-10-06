@@ -71,7 +71,7 @@ Create a program which takes a text (string) from the user, and calculates and p
 *Example input and output*
 |       Input       |      Output       |  Comment  | 
 |-------------------|-------------------|-----------|
-|hello |5      |e + o = 2 + 4 = 6 |
+|hello |6      |e + o = 2 + 4 = 6 |
 |hi  |3  |i = 3 |
 |bamboo |9 |a + o + o = 1 + 4 + 4 = 9 |
 |beer |4 |e + e = 2 + 2 = 4 |
